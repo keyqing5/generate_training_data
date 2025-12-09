@@ -1,4 +1,5 @@
-# 本地代码仓的智能训练数据生成与处理 Automatically generate and process training data from repository
+# 本地代码仓的智能训练数据生成与处理 
+## Automatically generate and process training data from repository
 
 
 ### 使用示例：
