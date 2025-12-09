@@ -1,7 +1,5 @@
-# 本地代码仓的智能训练数据生成与处理
-## Automatically generate and process training data from repository
+# 本地代码仓的智能训练数据生成与处理 Automatically generate and process training data from repository
 
-----
 
 ### 使用示例：
 仓库中提供jupyterbook文件```demo.ipynb```作为demo参考，您可以直接修改其中的变量内容```CODE_REPO_PATH、OUTPUT_FILE、LLM_MODEL_NAME、REQUIREMENTS（仅在场景2中）```，以满足自定义需求。
